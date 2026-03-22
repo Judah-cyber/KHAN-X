@@ -9,32 +9,32 @@
     "SESSION_ID": {
       "description": "Put the session-id here. (Required)",
       "required": true,
-      "value": ""
+      "value": "IK~H4sIAAAAAAAAA5VU2Y6jOhD9F78mGpaQDamlgZCFEBIIEBKu5oHFLGExMQZCRvn3K7qnu+fhzqivn+zCVJ0655R/ggIlFVRgB/ifoMRJ4xLYb0lXQsADsQ5DiMEQBC5xAQ86ZX5vm013uKWrw8i7eg9xOQikmtzpbWkZiNrFp/nIGiGmfQHPIShrL0v8vyREajoTjIhalozLLbWQyJ4aL7eSpiPLWlwOEyVTVpa9dK7pC3j2Gd0EJ0W0LGOYQ+xmCuw0N8Ffg78WglMWsyeHDlMkdFA56NS0TvXBYubgTc5qmtj5C0YZZZevwafKlKvoqSiJ+Xzs+Q57Xbr1jE64+/GaZ9Ro71yCrsqaLX15g18lUQEDOYAFSUj3Zd7XYndFTrsXWd9Ysbs0hGsk3cwwYLpSMaeoxbFBShFlZ/1rwLVTXK6M7Cjk+0dwVvF4Zx9sRE6Z5hwLznaVDGUPJpbC2PoduIbfvZL+H94VUTXWicIciFAN4tqsxseNfVjYwWQgRBmjTrfUnto0K9UWvgY/tm1XER/tVpnr1+uCResyY3R1VBpaPJ0EitdCtXEay0nST/guqfHfUEa7I82ux0fDSdNSoVrdGtwFswnbuXSnppumlW/NVN3ZBEmSOnDc2Y0y9d3pOsZQKi5ecbh1dzIis3RRyEcOb9f55BG3L68dpbCTA8AzzyHAMEoqgl2SoKKPsex4CNygMaCPIXmlF+C6OPjLs83ogRxCmVHUgKP31EDiVg5VnsJlLO9SUxdXNfcChqDEyIdVBYNNUhGEOxVWlRvBCvD//BiCAt7Jm3B9uRkzGoIwwRWxirrMkBu8y/rx1fV9VBfE6Ap/0W8gBjz9GYaEJEVU9UzWhYv9OGngInZJBfjQzSr40SPEMAA8wTX8mNsFCnrqBX0prZ0LA4Ygf5UkCQAP2BE3p0fclKZHNMtPv1ff2j6tW5bfCkjAEGRv18YTlp3PuMlsyjI0zU+/9/HnB8A+XwCJm2QV4MHikOixJ6+WWy+kZvR6LciRsIgE8NnQuzfeuN/7reFt91UdXnwkXh/zlT3pPCfYrrm1kVeS6XDUdr24loL/8h9JAA9WYj2iB1XU0PZZfsD6Hs8tbz8m26lk5vRN2oVqyu5LhTHyOqBuVHQwA81toyW32l0fmVUc7GobKKxRP7pxzXioYSxJf+mrBbBJfPh7MX8XhTuMdHMwWZ2tRE31uRPnZz+eM4R2BIS4pdGaujeixv5xZpm3TRs3aVJP8G5w2Z7km+xpWuHVA0sy7Y1fHE+iHwlvrn2dmuzXa5W8+qmXqj+GCXwd/sLtBfyDJu94e2fRz+Fvv/56Rf4wiaJ5Vpd5Z3q7gt0owmVGHU91lbNn41iLaYkFmoVad4zQRN+A5/PHEJSZS0KEc8ADtwgwei2OUd07VS5C9JdiC8GShSgy+oYztyLCp/vNJIcVcfMS8Mx0yjGzyWg+frulYVRu3Crue9eYSxz2Vu6EsjSIS96nCQj92uE5eP4Lq5G+nmoHAAA="
     },
     "PREFIX": {
       "description": "Bot prefix (Default: .)",
       "required": false,
-      "value": "."
+      "value": "!"
     },
     "BOT_NAME": {
       "description": "Your bot name (Default: KHAN-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "Saviour-MD"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 923427582273)",
       "required": false,
-      "value": "923427582273"
+      "value": "2349034700302"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Saviour TᴇᴄʜX"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/w7uz39.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by Saviour TᴇᴄʜX*"
     }
   },
   "buildpacks": [
